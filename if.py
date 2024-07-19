@@ -16,4 +16,3 @@ else:
 # é maior/menor?
 # maior : >(Maior ou igual: >=)
 # menor : <(Menor ou igual: <=)
-
