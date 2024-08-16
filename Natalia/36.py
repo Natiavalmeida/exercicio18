@@ -11,10 +11,10 @@ def parImpar(a, b):
         print('Computador Venceu')
 
 
-a = int(input("Digite um número: "))
+a = int(input('Digite um número: '))
 
 b = random.randint(0, 10)
 
-print(f'Número aleatório gerado: {b}')
+print('Número aleatório gerado: '+ str(b))
 
 parImpar(a, b)
